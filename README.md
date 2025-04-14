@@ -19,6 +19,6 @@ Feel free to contribute by opening pull requests with your own Python tips and t
 For daily Python insights, join the *Py Snack 🍿* channel on Telegram: [[Py Snack](https://t.me/py_snack)]
 
 ## 🔗 Links
-- [Py Snack]([https://t.me/py_snack])
+- [[Py Snack](https://t.me/py_snack)]
 
 Happy coding! 🐍
