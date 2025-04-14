@@ -16,9 +16,9 @@ This repository contains a collection of code snippets, explanations, and exampl
 Feel free to contribute by opening pull requests with your own Python tips and tricks! Just make sure to follow the style and format of existing posts.
 
 ## 📬 Join the Channel
-For daily Python insights, join the *Py Snack 🍿* channel on Telegram: [t.me/py_snack]
+For daily Python insights, join the *Py Snack 🍿* channel on Telegram: [[Py Snack](https://t.me/py_snack)]
 
 ## 🔗 Links
-- [Py Snack]([t.me/py_snack])
+- [Py Snack]([https://t.me/py_snack])
 
 Happy coding! 🐍
