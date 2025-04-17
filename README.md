@@ -8,7 +8,7 @@ This repository contains a collection of code snippets, explanations, and exampl
 ### 🧠 Examples of What You'll Find:
 - Simplified code snippets
 - Performance improvements
-- New Python features (e.g., Python 3.11+)
+- New Python features 
 - Best practices for modern Python code
 - Useful libraries and tools
 
