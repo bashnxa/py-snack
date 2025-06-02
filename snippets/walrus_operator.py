@@ -9,8 +9,7 @@ for item in data:
 results = [
     processed
     for item in data
-    if complex_condition(item)
-    and (processed := expensive_operation(item))
+    if complex_condition(item) and (processed := expensive_operation(item))
 ]
 
 # 🧠 ➤ The walrus operator (:=) lets you assign values mid-expression while evaluating conditions,
